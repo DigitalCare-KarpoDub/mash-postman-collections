@@ -1,0 +1,73 @@
+{
+	"info": {
+		"_postman_id": "9524218c-aea9-4911-bb11-8d2e4d1eed1c",
+		"name": "BusinessInfoHub",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42920514"
+	},
+	"item": [
+		{
+			"name": "Generowanie raportu",
+			"item": [
+				{
+					"name": "Verify Identifiers",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Get raport",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Raport order",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Get raport",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Dodanie clienta do czarnej listy",
+			"item": [
+				{
+					"name": "Blacklist add",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Usuwanie clienta z czarnej listy",
+			"item": [
+				{
+					"name": "Blacklist remove",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

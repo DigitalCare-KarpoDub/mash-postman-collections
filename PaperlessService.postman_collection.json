@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "fbe7f747-6dfe-4a55-8326-e0eaf31abb81",
+		"name": "PaperlessService",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42920514"
+	},
+	"item": [
+		{
+			"name": "Zlecenie podpisania plików",
+			"item": [
+				{
+					"name": "Sign process",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Get document details",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Document sign",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Get status",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "50174032-1a72-42e0-964d-b30b195be7d3",
+		"name": "SmsGateway",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42920514"
+	},
+	"item": [
+		{
+			"name": "New Folder",
+			"item": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"info": {
+		"_postman_id": "e31a56a0-2420-4e3a-a6fe-1a2a11e0ffbb",
+		"name": "CourierHub",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42920514"
+	},
+	"item": [
+		{
+			"name": "Zamówienie przesyłki DPD",
+			"item": [
+				{
+					"name": "Courier order",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Zamówienie przesyłki InPost",
+			"item": [
+				{
+					"name": "Courier order",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Zamówienie przesyłki UPS",
+			"item": [
+				{
+					"name": "Courier order",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
